@@ -1,4 +1,5 @@
 {
 "file_name":"train",
-"dataset":"wine-quality"
+"dataset":"wine-quality",
+ "folder":"mlflow-example"
 }
