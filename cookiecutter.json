@@ -1,4 +1,4 @@
 {
 "file_name":"train",
-"conda_file":"conda"
+"dataset":"wine-quality"
 }
